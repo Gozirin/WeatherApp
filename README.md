@@ -38,9 +38,7 @@
 - [MPAndroidChart]: A powerful & easy to use chart library for Android
 - [Firebase Core] / Crashlytics
 
-**Credit**
 
-### This app inspired from [Weather App Freebie] concept Designed by [Raman Yv] 
 
 # License
     
